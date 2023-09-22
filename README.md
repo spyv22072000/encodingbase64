@@ -40,7 +40,4 @@ Modify the server response to serve different content or handle specific HTTP re
 Add additional routes and functionality to the server based on your needs.
 Remember to restart the server after making any changes for the modifications to take effect.
 
-Troubleshooting
-If you encounter any issues while running the local server, ensure that you have Node.js installed correctly and that there are no syntax errors or conflicting processes running on the specified port.
 
-For further assistance, refer to the Node.js documentation or consult relevant online resources.
